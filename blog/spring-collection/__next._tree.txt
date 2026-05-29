@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0ddsp6o05gty2.css","style"]
+:HL["https://images.unsplash.com/photo-1483985988355-763728e1935b?w=900","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"spring-collection","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"2UqfIyI61zPhcXPUgRmbp"}

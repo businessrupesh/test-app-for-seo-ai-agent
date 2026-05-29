@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/08l008w6l4jx5.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+:HL["https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-5xl px-4 py-8 ","children":["$","article",null,{"className":"grid gap-8 md:grid-cols-[200px_1fr] items-start","children":[["$","div",null,{"children":["$","img",null,{"src":"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600","alt":"photo","className":"rounded-lg"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Ava Patel"}],["$","p",null,{"className":"text-sm text-zinc-500","children":"Head of Design"}],["$","p",null,{"className":"mt-4 text-zinc-700 leading-relaxed","children":"Ava oversees the design system, brand identity, and physical packaging. Her work has been featured in two design annuals you have probably heard of."}]]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2UqfIyI61zPhcXPUgRmbp"}
+4:null

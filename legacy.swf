@@ -1,0 +1,3 @@
+This is a placeholder file standing in for a legacy Flash .swf binary. The /legacy-flash page
+references this file via <object type="application/x-shockwave-flash" data="/legacy.swf">, which
+is what the `flash_removal` SEO subcategory detects. The pixel removes the <object> on apply.

@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/08l008w6l4jx5.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900","image"]
+2:T705,
+<p>If you spend eight hours a day at a desk, ergonomics is not optional.</p>
+<h2>Background</h2>
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure in reprehenderit voluptate velit esse cillum eu fugiat nulla pariatur excepteur sint occaecat.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure in reprehenderit voluptate velit esse cillum eu fugiat nulla pariatur excepteur sint occaecat.
+<h2>Details</h2>
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure in reprehenderit voluptate velit esse cillum eu fugiat nulla pariatur excepteur sint occaecat.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure in reprehenderit voluptate velit esse cillum eu fugiat nulla pariatur excepteur sint occaecat.
+<h2>Conclusion</h2>
+Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure in reprehenderit voluptate velit esse cillum eu fugiat nulla pariatur excepteur sint occaecat.
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-5xl px-4 py-8 ","children":["$","article",null,{"className":"prose mx-auto max-w-3xl","children":[["$","p",null,{"className":"text-xs uppercase text-zinc-500","children":"How-tos"}],["$","h1",null,{"className":"text-4xl font-bold leading-tight","children":"Building an Ergonomic Desk Setup"}],["$","p",null,{"className":"mt-2 text-sm text-zinc-500","children":["By ","Jane Doe"," · ","2026-03-10"]}],["$","img",null,{"src":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900","alt":"","className":"my-6 w-full rounded-lg"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2UqfIyI61zPhcXPUgRmbp"}
+5:null
