@@ -1,7 +1,0 @@
-# Static-host redirect rules.
-# Format: Netlify / Cloudflare Pages.
-# These reproduce the redirect chain the SEO audit looks for.
-
-/services             /products    301
-/products             /shop        301
-/old/discontinued-product   /shop  301

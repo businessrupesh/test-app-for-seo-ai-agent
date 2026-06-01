@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/08l008w6l4jx5.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-3:"$Sreact.suspense"
-:HL["https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600","image"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-5xl px-4 py-8 ","children":["$","article",null,{"className":"grid gap-8 md:grid-cols-[200px_1fr] items-start","children":[["$","div",null,{"children":["$","img",null,{"src":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600","alt":"photo","className":"rounded-lg"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Marcus Lee"}],["$","p",null,{"className":"text-sm text-zinc-500","children":"VP of Operations"}],["$","p",null,{"className":"mt-4 text-zinc-700 leading-relaxed","children":"Marcus runs the supply chain. He can tell you off the top of his head the freight rate to any major port from any major port."}]]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2UqfIyI61zPhcXPUgRmbp"}
-4:null
